@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #555;
+    color: white;
+}
+
+.heading-container {
+    padding: 4rem 1.5rem;
+}
+
+.disabled-link-on-site-by-extension {
+    pointer-events: none !important;
+    color: gray !important;
+}
